@@ -104,8 +104,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Shivam-Prajapati-59/Shivam-Prajapati-59/output/snake.svg" alt="Snake animation" />
-
-###
+<img alt="github-snake" src="https://raw.githubusercontent.com/Shivam-Prajapati-59/Shivam-Prajapati-59/output/snake.svg" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
