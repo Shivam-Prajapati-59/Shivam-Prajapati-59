@@ -1,4 +1,4 @@
-<h1 align="left">Hi... I'm Shivam <img src="https://raw.githubusercontent.com/somonesummers/readme-assets/main/wavingHand.gif" width="35"></h1>
+<h1 align="left">Hi... I'm Shivam👋</h1>
 
 ###
 
