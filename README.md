@@ -1,14 +1,4 @@
-h1 align="left">Hi... I'm Shivam <span style="display:inline-block; animation: shake 0.5s infinite; transform-origin: bottom center;">✋</span></h1>
-
-<style>
-@keyframes shake {
-  0% { transform: rotate(0deg); }
-  25% { transform: rotate(5deg); }
-  50% { transform: rotate(0deg); }
-  75% { transform: rotate(-5deg); }
-  100% { transform: rotate(0deg); }
-}
-</style>
+<h1 align="left">Hi... I'm Shivam <img src="https://raw.githubusercontent.com/somonesummers/readme-assets/main/wavingHand.gif" width="35"></h1>
 
 ###
 
