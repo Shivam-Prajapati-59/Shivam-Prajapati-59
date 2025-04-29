@@ -1,4 +1,14 @@
-<h1 align="left">Hi... I'm Shivam 👋 <img src="https://media.giphy.com/media/l4FGpP4lxGGgK5CBW/giphy.gif" alt="cool hand" height="30"/></h1>
+h1 align="left">Hi... I'm Shivam <span style="display:inline-block; animation: shake 0.5s infinite; transform-origin: bottom center;">✋</span></h1>
+
+<style>
+@keyframes shake {
+  0% { transform: rotate(0deg); }
+  25% { transform: rotate(5deg); }
+  50% { transform: rotate(0deg); }
+  75% { transform: rotate(-5deg); }
+  100% { transform: rotate(0deg); }
+}
+</style>
 
 ###
 
