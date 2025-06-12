@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Aspiring Full-Stack Developer, constantly leveling up and ready to take on new challenges.</p>
+<p align="left">Full-Stack Developer, constantly leveling up and ready to take on new challenges.</p>
 
 ###
 
