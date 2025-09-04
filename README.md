@@ -17,7 +17,7 @@
 🎯 Aspiring Full Stack Blockchain Developer | Future-Proofing My Stack  
 🎲 Fun Fact: I debug life like I debug code — one breakpoint at a time.
 
-🔗 Portfolio: [shivamprajapati.vercel.app](https://theshivam.tech)
+🔗 Portfolio: [shivam prajapati](https://theshivam.tech)
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated Line" width="100%" />
