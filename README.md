@@ -8,7 +8,7 @@
 - **Currently Learning Rust**
 - **Building cool stuff, one commit at a time.**
 
-<br><br>
+<br>
 
 ## Tech Stack
 
