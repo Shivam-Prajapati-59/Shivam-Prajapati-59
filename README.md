@@ -4,10 +4,8 @@
 
 <img src="https://media1.tenor.com/m/GfSX-u7VGM4AAAAC/coding.gif" width="260" align="right" />
 
-- **Full Stack Developer**
-- **Currently Learning Rust**
-- **Building cool stuff, one commit at a time.**
-
+> **Full Stack Engineer**  
+>  Metal in my headphones. Rust in my editor
 <br>
 
 ## Tech Stack
